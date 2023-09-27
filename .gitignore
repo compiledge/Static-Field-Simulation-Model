@@ -1,0 +1,9 @@
+# Object files
+*.o
+bin
+
+# Editor files
+tags
+
+# Logs 
+*.txt
